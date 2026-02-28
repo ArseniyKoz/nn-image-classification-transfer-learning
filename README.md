@@ -19,7 +19,7 @@ Pet-проект по компьютерному зрению: аугмента�
 
 ## Как запустить
 
-`ash
+```bash
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
@@ -42,4 +42,5 @@ jupyter notebook nn_practice_2.ipynb
 ## Автор
 
 Арсений Козлов - [github.com/ArseniyKoz](https://github.com/ArseniyKoz)
+
 
