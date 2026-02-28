@@ -17,15 +17,6 @@ Pet-проект по компьютерному зрению: аугмента�
 - Matplotlib
 - Jupyter Notebook
 
-## Как запустить
-
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-jupyter notebook nn_practice_2.ipynb
-```
-
 ## Результаты
 
 Подготовлен воспроизводимый шаблон обучения CNN с transfer learning для задач классификации.
@@ -39,8 +30,5 @@ jupyter notebook nn_practice_2.ipynb
 
 - Добавить tracking метрик по эпохам и confusion matrix по классам.
 
-## Автор
-
-Арсений Козлов - [github.com/ArseniyKoz](https://github.com/ArseniyKoz)
 
 
